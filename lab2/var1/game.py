@@ -1,0 +1,1 @@
+print("Welcome to the Docker Game (Variant 1: COPY)!")
